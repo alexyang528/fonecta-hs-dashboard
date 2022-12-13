@@ -14,10 +14,7 @@
       "filters": [
         {
           "filter": "yext/date",
-          "between": [
-            "2022-03-17",
-            "2022-04-14"
-          ]
+          "in": "MONTHS_13"
         }
       ]
     },
