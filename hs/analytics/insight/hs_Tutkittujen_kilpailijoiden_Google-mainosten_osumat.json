@@ -1,34 +1,33 @@
 {
-    "$id": "hs_Tutkittujen_kilpailijoiden_Google-mainosten_osumat",
-    "$schema": "https://schema.yext.com/config/analytics/insight/v1",
-    "name": "Tutkittujen kilpailijoiden Google-mainosten osumat",
-    "description": "Seuraa millä avainsanoilla yrityksesi ja tutkitut kilpailijat ovat saaneet eniten osumia maksetuilla Google-mainoksilla valitulla ajanjaksolla. Tutki minkä avainsanojen Google-mainontaan kilpailijat ovat panostaneet.",
-    "query": {
-      "metrics": [
-        "yext/AD_MATCHES"
-      ],
-      "dimensions": [
-        "yext/LRT_COMPETITOR",
-        "yext/LRT_KEYWORD"
-      ],
-      "filters": [
-        {
-          "filter": "yext/searchEngine",
-          "in": [
-            "GOOGLE_DESKTOP",
-            "GOOGLE_MOBILE"
-          ]
-        }
-      ]
-    },
-    "display": {
-      "table": {
-        "sort": {
-          "column": {
-            "metric": "yext/AD_MATCHES"
-          },
-          "descending": true
-        }
+  "$id": "hs_Tutkittujen_kilpailijoiden_Google-mainosten_osumat",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Tutkittujen kilpailijoiden Google-mainosten osumat",
+  "query": {
+    "metrics": [
+      "yext/AD_MATCHES"
+    ],
+    "dimensions": [
+      "yext/LRT_COMPETITOR",
+      "yext/LRT_KEYWORD"
+    ],
+    "filters": [
+      {
+        "filter": "yext/searchEngine",
+        "in": [
+          "GOOGLE_DESKTOP",
+          "GOOGLE_MOBILE"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "table": {
+      "sort": {
+        "column": {
+          "metric": "yext/AD_MATCHES"
+        },
+        "descending": true
       }
     }
   }
+}
