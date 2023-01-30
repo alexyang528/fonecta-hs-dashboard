@@ -92,7 +92,7 @@
       "height": 2
     },
     {
-      "insight": "hs_Tutkittujen_kilpailijoiden_osumatyypit_ja_Google-mainosten_osumat", //change this//
+      "insight": "hs_Tutkittujen_kilpailijoiden_osumatyypit_ja_Google-mainosten_osumat",
       "caption": "Seuraa millä tavoin yrityksesi ja tutkitut kilpailijat ovat saaneet osumia tutkituilla avainsanoilla 1. hakutulossivulla valitulla ajanjaksolla. Hakutuloksen tyyppi: Local Pack = Google-yritysprofiili näkynyt TOP 3 yritysten joukossa paikallisissa hakutuloksissa. Knowledge Card = Google-yritysprofiili näkynyt kokonaisena tietokorttina. Orgaaninen = yrityksen verkkosivulinkki (kotisivut, Kontakti-profiilisivu) näkynyt hakutuloksissa. Mainonnan osumat = Google-mainos näkynyt hakutuloksissa.",
       "x": 0,
       "y": 10,
