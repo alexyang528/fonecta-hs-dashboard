@@ -1,5 +1,5 @@
 {
-  "$id": "hs_Tutkittujen_kilpailijoiden_osumatyypit_ja_Google-mainosten_osumat",
+  "$id": "tutkittujen_kilpailijoiden_osumatyypit_Google-mainosten_osumat",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Tutkittujen kilpailijoiden osumatyypit & Google-mainosten osumat",
   "query": {
