@@ -2,6 +2,7 @@
   "$id": "hs_Tutkittujen_kilpailijoiden_osumat_avainsanoilla",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Tutkittujen kilpailijoiden osumat avainsanoilla",
+  "description": "Yrityksesi ja tutkittujen kilpailijoiden saamat osumat 1. hakutulossivulla. Seuraa millä tutkituilla avainsanoilla ja miten kilpailijasi ovat saaneet parhaiten osumia. Local Pack = toimipisteesi Google-yritysprofiili on listautunut TOP 3 paikallisten yritysten joukkoon. Knowledge Card = toimipisteesi on näkynyt ainoana Google-yritysprofili -tietokorttina. Orgaaninen = yrityksesi verkkosivut tai Kontakti-profiilisivu (mm. Fonecta.fi tai FB-sivu) on listautunut 1. hakutulossivulle.",
   "query": {
     "metrics": [
       "yext/TOTAL_MATCHES"

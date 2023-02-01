@@ -2,6 +2,7 @@
   "$id": "hs_Orgaanisen_osuman_sijoitus_avainsanoittain",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Orgaanisen osuman sijoitus avainsanoittain",
+  "description": "Yrityksesi ensimmäisen orgaanisen osuman keskimääräinen sijoitus hakutulossivulla (Google, Bing) tutkitulla avainsanalla kaikilla kyselylausekkeilla sekä verrattuna edelliseen vastaavaan ajanjaksoon. Orgaaninen osuma tarkoittaa, että yrityksesi verkkosivut tai Kontakti-palvelun profiililistaus on esiintynyt hakutuloksissa. Seuraa yrityksesi orgaanisten osuman sijoitusta ja kehitystä. Mitä pienempi luku, sitä korkeammalle ensimmäinen orgaaninen osuma on hakutuloksissa noussut, paras on 1.",
   "query": {
     "metrics": [
       "yext/AVERAGE_FIRST_ORGANIC_MATCH_POSITION"

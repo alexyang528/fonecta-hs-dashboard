@@ -2,6 +2,7 @@
   "$id": "hs_Local_Pack_-kilpailijoiden_osumat_avainsanoilla",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Local Pack -kilpailijoiden osumat avainsanoilla",
+  "description": "Tutki mitkä yrityksesi paikalliset kilpailijat ovat saanet Local Pack -osumia tutkituilla avainsanoilla. Local Pack -osuma tarkoittaa, että yrityksen Google-yritysprofiili on esiintynyt TOP 3 yritysten joukossa paikallisissa hakutuloksissa. Local Pack -listaus voi tulla avainsanoilla, jotka Google tulkitsee paikallisesti haettavaksi asiaksi, tuotteeksi tai palveluksi.",
   "query": {
     "metrics": [
       "yext/TOTAL_MATCHES"

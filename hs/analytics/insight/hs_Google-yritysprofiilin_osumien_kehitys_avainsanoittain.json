@@ -2,6 +2,7 @@
   "$id": "hs_Google-yritysprofiilin_osumien_kehitys_avainsanoittain",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Google-yritysprofiilin osumien kehitys avainsanoittain",
+  "description": "Osumat kertovat Google-yritysprofiilisi näyttökerrat hakutuloksissa tutkituilla avainsanoilla kaikilla kyselylausekkeilla. Osuma toteutuu kun Google-yritysprofiilisi on näkynyt Googlessa TOP 3 yritysten joukossa paikallisissa hakutuloksissa (Local Pack) tai kokonaisena tietokorttina (Knowledge Card). Local Pack -listaus voi tulla avainsanoilla, jotka Google tulkitsee paikallisesti haettavaksi asiaksi, tuotteeksi tai palveluksi. Tutki avainsanojen osumien kehitystä.",
   "query": {
     "metrics": [
       "yext/TOTAL_MATCHES"

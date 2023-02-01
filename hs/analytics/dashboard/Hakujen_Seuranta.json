@@ -5,7 +5,6 @@
   "insights": [
     {
       "insight": "hs_Google-yritysprofiilin_osumat_avainsanoittain",
-      "caption": "Osumat kertovat Google-yritysprofiilisi näyttökerrat hakutuloksissa tutkituilla avainsanoilla kaikilla kyselylausekkeilla. Osuma toteutuu kun Google-yritysprofiilisi on näkynyt Googlessa TOP 3 yritysten joukossa paikallisissa hakutuloksissa (Local Pack) tai kokonaisena tietokorttina (Knowledge Card). Local Pack -listaus voi tulla avainsanoilla, jotka Google tulkitsee paikallisesti haettavaksi asiaksi, tuotteeksi tai palveluksi. Tutki mikä avainsana on tuonut parhaiten osumia ajanjaksolla.",
       "x": 0,
       "y": 0,
       "width": 3,
@@ -13,7 +12,6 @@
     },
     {
       "insight": "hs_Orgaaniset_osumat_avainsanoittain",
-      "caption": "Yrityksesi orgaaniset osumat hakutuloksissa (Google, Bing) tutkituilla avainsanoilla kaikilla kyselylausekkeilla. Orgaaninen osuma tarkoittaa, että yrityksesi verkkosivut tai Kontakti-palvelun profiililistaus on esiintynyt ensimmäisellä hakutulossivulla tutkitulla avainsanalla. Vertaile tutkimiesi avainsanojen saamien orgaanisten osumien määrää.",
       "x": 3,
       "y": 0,
       "width": 3,
@@ -21,7 +19,6 @@
     },
     {
       "insight": "hs_Google-yritysprofiilin_osumien_kehitys_avainsanoittain",
-      "caption": "Osumat kertovat Google-yritysprofiilisi näyttökerrat hakutuloksissa tutkituilla avainsanoilla kaikilla kyselylausekkeilla. Osuma toteutuu kun Google-yritysprofiilisi on näkynyt Googlessa TOP 3 yritysten joukossa paikallisissa hakutuloksissa (Local Pack) tai kokonaisena tietokorttina (Knowledge Card). Local Pack -listaus voi tulla avainsanoilla, jotka Google tulkitsee paikallisesti haettavaksi asiaksi, tuotteeksi tai palveluksi. Tutki avainsanojen osumien kehitystä.",
       "x": 0,
       "y": 1,
       "width": 3,
@@ -29,7 +26,6 @@
     },
     {
       "insight": "hs_Orgaanisten_osumien_kehitys_avainsanoittain",
-      "caption": "Yrityksesi orgaaniset osumat hakutuloksissa (Google, Bing) tutkituilla avainsanoilla kaikilla kyselylausekkeilla verrattuna edelliseen vastaavaan kauteen. Orgaaninen osuma tarkoittaa, että yrityksesi verkkosivut tai Kontakti-palvelun profiililistaus on esiintynyt ensimmäisellä hakutulossivulla tutkitulla avainsanalla. Seuraa yrityksesi orgaanisten osumien määrää ja kehitystä tutkituilla avainsanoilla.",
       "x": 3,
       "y": 1,
       "width": 3,
@@ -37,7 +33,6 @@
     },
     {
       "insight": "LRT-LOCAL-PACK-COMPETITORS",
-      "caption": "Yrityksesi TOP 5 kilpailijaa, jotka ovat saaneet yhteensä eniten osumia Local Pack -listauksessa tutkituilla avainsanoilla. Tämä osio sisältää tulokset kaikista yrityksesi kilpailijoista Local Pack -hakutuloksissa, ei perustu tutkittuihin kilpailijayrityksiin.",
       "x": 0,
       "y": 3,
       "width": 3,
@@ -45,7 +40,6 @@
     },
     {
       "insight": "COMPETITOR-REVIEW-RATING-GOOGLE",
-      "caption": "Tutkimiesi kilpailijoiden keskimääräinen Google-arvosteluiden luokitus. Osio on tyhjä, mikäli yrityksellesi ei ole vielä asetettu kilpailijaseurantaan tutkittuja kilpailijoita.",
       "x": 3,
       "y": 3,
       "width": 3,
@@ -53,7 +47,6 @@
     },
     {
       "insight": "hs_Local_Pack_-kilpailijoiden_osumat_avainsanoilla",
-      "caption": "Tutki mitkä yrityksesi paikalliset kilpailijat ovat saanet Local Pack -osumia tutkituilla avainsanoilla. Local Pack -osuma tarkoittaa, että yrityksen Google-yritysprofiili on esiintynyt TOP 3 yritysten joukossa paikallisissa hakutuloksissa. Local Pack -listaus voi tulla avainsanoilla, jotka Google tulkitsee paikallisesti haettavaksi asiaksi, tuotteeksi tai palveluksi.",
       "x": 0,
       "y": 4,
       "width": 3,
@@ -61,7 +54,6 @@
     },
     {
       "insight": "hs_Alykkaan_haun_osuus_avainsanoittain",
-      "caption": "Tutki Älykkään haun osuudella, millä avainsanalla yritykselläsi on korkein todennäköisyys tulla klikatuksi hakutuloksista. Älykkään haun prosentti kertoo, kuinka todennäköisesti yrityksesi listausta (Google-yritysprofiilia, verkkosivua tai Kontakti-profiilisivua) klikataan hakutuloksessa, jos haetaan tutkitulla avainsanalla. Älykäs haku laskee yhteen yrityksen orgaaniset sekä Google-yritysprofiilien osumat. Seuraa ja vertaile yrityksesi Älykkään haun osuuden kehitystä tutkituilla avainsanoilla.",
       "x": 3,
       "y": 4,
       "width": 3,
@@ -69,7 +61,6 @@
     },
     {
       "insight": "hs_Orgaanisen_osuman_sijoitus_avainsanoittain",
-      "caption": "Yrityksesi ensimmäisen orgaanisen osuman keskimääräinen sijoitus hakutulossivulla (Google, Bing) tutkitulla avainsanalla kaikilla kyselylausekkeilla sekä verrattuna edelliseen vastaavaan ajanjaksoon. Orgaaninen osuma tarkoittaa, että yrityksesi verkkosivut tai Kontakti-palvelun profiililistaus on esiintynyt hakutuloksissa. Seuraa yrityksesi orgaanisten osuman sijoitusta ja kehitystä. Mitä pienempi luku, sitä korkeammalle ensimmäinen orgaaninen osuma on hakutuloksissa noussut, paras on 1.",
       "x": 0,
       "y": 6,
       "width": 6,
@@ -77,7 +68,6 @@
     },
     {
       "insight": "hs_Tutkittujen_kilpailijoiden_osumat_avainsanoilla",
-      "caption": "Yrityksesi ja tutkittujen kilpailijoiden saamat osumat 1. hakutulossivulla. Seuraa millä tutkituilla avainsanoilla ja miten kilpailijasi ovat saaneet parhaiten osumia. Local Pack = toimipisteesi Google-yritysprofiili on listautunut TOP 3 paikallisten yritysten joukkoon. Knowledge Card = toimipisteesi on näkynyt ainoana Google-yritysprofili -tietokorttina. Orgaaninen = yrityksesi verkkosivut tai Kontakti-profiilisivu (mm. Fonecta.fi tai FB-sivu) on listautunut 1. hakutulossivulle.",
       "x": 0,
       "y": 8,
       "width": 3,
@@ -85,7 +75,6 @@
     },
     {
       "insight": "hs_Tutkittujen_kilpailijoiden_Alykkaan_haun_osuus_avainsanoilla",
-      "caption": "Tutki Älykkään haun osuudella, millä avainsanalla yrityksellä on korkein todennäköisyys tulla klikatuksi hakutuloksista. Älykkään haun prosenttiluku kertoo, kuinka todennäköisesti yrityksen listausta (Google-yritysprofiilia, verkkosivuja tai Kontakti-profiilisivua) klikataan hakutuloksessa, jos haetaan tutkitulla avainsanalla. Älykäs haku laskee yhteen yrityksen orgaaniset sekä Google-yritysprofiilin potentiaaliset osumat. Seuraa ja vertaile kilpailijoiden osuuksia tutkituilla avainsanoilla.",
       "x": 3,
       "y": 8,
       "width": 3,
@@ -93,7 +82,6 @@
     },
     {
       "insight": "tutkittujen_kilpailijoiden_osumatyypit_Google-mainosten_osumat",
-      "caption": "Seuraa millä tavoin yrityksesi ja tutkitut kilpailijat ovat saaneet osumia tutkituilla avainsanoilla 1. hakutulossivulla valitulla ajanjaksolla. Hakutuloksen tyyppi: Local Pack = Google-yritysprofiili näkynyt TOP 3 yritysten joukossa paikallisissa hakutuloksissa. Knowledge Card = Google-yritysprofiili näkynyt kokonaisena tietokorttina. Orgaaninen = yrityksen verkkosivulinkki (kotisivut, Kontakti-profiilisivu) näkynyt hakutuloksissa. Mainonnan osumat = Google-mainos näkynyt hakutuloksissa.",
       "x": 0,
       "y": 10,
       "width": 3,
@@ -101,7 +89,6 @@
     },
     {
       "insight": "hs_Tutkittujen_kilpailijoiden_Google-mainosten_osumat",
-      "caption": "Seuraa millä avainsanoilla yrityksesi ja tutkitut kilpailijat ovat saaneet eniten osumia maksetuilla Google-mainoksilla valitulla ajanjaksolla. Tutki minkä avainsanojen Google-mainontaan kilpailijat ovat panostaneet.",
       "x": 3,
       "y": 10,
       "width": 3,
@@ -109,7 +96,6 @@
     },
     {
       "insight": "hs_Tutkittujen_kilpailijoiden_orgaanisen_osuman_sijoitus",
-      "caption": "Yrityksesi ja tutkittujen kilpailijoiden ensimmäisen orgaanisen osuman keskimääräinen sijoitus hakutulossivulla (Google, Bing) tutkituilla avainsanoilla kaikilla kyselylausekkeilla sekä verrattuna edelliseen vastaavaan ajanjaksoon. Orgaaninen osuma = yrityksen verkkosivut tai Kontakti-profiilisivu (mm. Fonecta.fi tai FB-sivu) on näkynyt hakutuloksissa. Seuraa yrityksesi ja tutkimiesi kilpailijoiden orgaanisen osuman sijoitusta ja kehitystä. Pienempi luku tarkoittaa korkeampaa sijoitusta.",
       "x": 0,
       "y": 12,
       "width": 6,

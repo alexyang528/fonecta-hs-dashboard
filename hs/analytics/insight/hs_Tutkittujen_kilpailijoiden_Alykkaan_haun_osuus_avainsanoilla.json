@@ -2,6 +2,7 @@
   "$id": "hs_Tutkittujen_kilpailijoiden_Alykkaan_haun_osuus_avainsanoilla",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Tutkittujen kilpailijoiden Älykkään haun osuus avainsanoilla",
+  "description": "Tutki Älykkään haun osuudella, millä avainsanalla yrityksellä on korkein todennäköisyys tulla klikatuksi hakutuloksista. Älykkään haun prosenttiluku kertoo, kuinka todennäköisesti yrityksen listausta (Google-yritysprofiilia, verkkosivuja tai Kontakti-profiilisivua) klikataan hakutuloksessa, jos haetaan tutkitulla avainsanalla. Älykäs haku laskee yhteen yrityksen orgaaniset sekä Google-yritysprofiilin potentiaaliset osumat. Seuraa ja vertaile kilpailijoiden osuuksia tutkituilla avainsanoilla.",
   "query": {
     "metrics": [
       "yext/SHARE_OF_INTELLIGENT_SEARCH"

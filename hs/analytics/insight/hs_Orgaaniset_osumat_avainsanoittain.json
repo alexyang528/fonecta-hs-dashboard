@@ -2,6 +2,7 @@
   "$id": "hs_Orgaaniset_osumat_avainsanoittain",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Orgaaniset osumat avainsanoittain",
+  "description": "Yrityksesi orgaaniset osumat hakutuloksissa (Google, Bing) tutkituilla avainsanoilla kaikilla kyselylausekkeilla. Orgaaninen osuma tarkoittaa, että yrityksesi verkkosivut tai Kontakti-palvelun profiililistaus on esiintynyt ensimmäisellä hakutulossivulla tutkitulla avainsanalla. Vertaile tutkimiesi avainsanojen saamien orgaanisten osumien määrää.",
   "query": {
     "metrics": [
       "yext/TOTAL_MATCHES"

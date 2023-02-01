@@ -2,6 +2,7 @@
   "$id": "hs_Tutkittujen_kilpailijoiden_orgaanisen_osuman_sijoitus",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Tutkittujen kilpailijoiden orgaanisen osuman sijoitus",
+  "description": "Yrityksesi ja tutkittujen kilpailijoiden ensimmäisen orgaanisen osuman keskimääräinen sijoitus hakutulossivulla (Google, Bing) tutkituilla avainsanoilla kaikilla kyselylausekkeilla sekä verrattuna edelliseen vastaavaan ajanjaksoon. Orgaaninen osuma = yrityksen verkkosivut tai Kontakti-profiilisivu (mm. Fonecta.fi tai FB-sivu) on näkynyt hakutuloksissa. Seuraa yrityksesi ja tutkimiesi kilpailijoiden orgaanisen osuman sijoitusta ja kehitystä. Pienempi luku tarkoittaa korkeampaa sijoitusta.",
   "query": {
     "metrics": [
       "yext/AVERAGE_FIRST_ORGANIC_MATCH_POSITION"
