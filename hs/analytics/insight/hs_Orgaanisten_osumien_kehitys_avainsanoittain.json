@@ -1,7 +1,7 @@
 {
   "$id": "hs_Orgaanisten_osumien_kehitys_avainsanoittain",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
-  "name": "Orgaanisten_osumien_kehitys_avainsanoittain",
+  "name": "Orgaanisten osumien kehitys avainsanoittain",
   "description": "Yrityksesi orgaaniset osumat hakutuloksissa (Google, Bing) tutkituilla avainsanoilla kaikilla kyselylausekkeilla verrattuna edelliseen vastaavaan kauteen. Orgaaninen osuma tarkoittaa, että yrityksesi verkkosivut tai Kontakti-palvelun profiililistaus on esiintynyt ensimmäisellä hakutulossivulla tutkitulla avainsanalla. Seuraa yrityksesi orgaanisten osumien määrää ja kehitystä tutkituilla avainsanoilla.",
   "query": {
     "metrics": [
@@ -19,12 +19,15 @@
         "filter": "yext/matchType",
         "in": [
           "NO_MATCH",
-          "LOCAL_PACK"
+          "LISTINGS",
+          "LOCATION_PAGES",
+          "CORPORATE_WEBSITE"
         ]
       },
       {
         "filter": "yext/searchEngine",
         "in": [
+          "BING_DESKTOP",
           "GOOGLE_DESKTOP",
           "GOOGLE_MOBILE"
         ]
