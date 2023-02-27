@@ -1,0 +1,36 @@
+{
+  "$id": "hs_Alykkaan_haun_vertailu_toimipisteittain",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Älykkään haun vertailu toimipisteittäin",
+  "description": "Seuraa ja vertaile yrityksesi paikallista löydettävyyttä. Tutki millä paikkakunnalla yritykselläsi on paras tai heikoin todennäköisyys tulla klikatuksi hakutuloksista. Älykkään haun prosentti kertoo, kuinka todennäköisesti yrityksesi listausta (Google-yritysprofiilia, verkkosivua tai Kontakti-profiilisivua) klikataan hakutuloksessa, jos haetaan tutkitulla avainsanalla toimipisteesi alueelta. Älykäs haku laskee yhteen yrityksesi orgaaniset sekä Google-yritysprofiilien osumat.",
+  "query": {
+    "metrics": [
+      "yext/SHARE_OF_INTELLIGENT_SEARCH"
+    ],
+    "fields": [
+      "entityId",
+      "name",
+      "yext/derivedField-city"
+    ],
+    "dimensions": [
+      "yext/LOCATIONS"
+    ],
+    "filters": [
+      {
+        "filter": "yext/date",
+        "in": "WEEKS_16"
+      }
+    ],
+    "comparison": "PREVIOUS_PERIOD"
+  },
+  "display": {
+    "table": {
+      "sort": {
+        "column": {
+          "metric": "yext/SHARE_OF_INTELLIGENT_SEARCH"
+        },
+        "descending": true
+      }
+    }
+  }
+}
