@@ -1,5 +1,5 @@
 {
-  "$id": "tutkittujen_kilpailijoiden_osumatyypit_Google-mainosten_osumat",
+  "$id": "hs_tutkittujen_kilpailijoiden_osumatyypit_Google_mainosten_osumat",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Tutkittujen kilpailijoiden osumatyypit & Google-mainosten osumat",
   "description": "Seuraa millä tavoin yrityksesi ja tutkitut kilpailijat ovat saaneet osumia tutkituilla avainsanoilla 1. hakutulossivulla valitulla ajanjaksolla. Hakutuloksen tyyppi: Local Pack = Google-yritysprofiili näkynyt TOP 3 yritysten joukossa paikallisissa hakutuloksissa. Knowledge Card = Google-yritysprofiili näkynyt kokonaisena tietokorttina. Orgaaninen = yrityksen verkkosivulinkki (kotisivut, Kontakti-profiilisivu) näkynyt hakutuloksissa. Mainonnan osumat = Google-mainos näkynyt hakutuloksissa.",
